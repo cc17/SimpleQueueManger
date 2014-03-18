@@ -18,7 +18,7 @@
 		console.log('last');
 	});
    
-  ~~~js
+
 
 
 
@@ -34,4 +34,4 @@
 		box.setAttribute('class','ani2');
 	}).dequeue();
    
-~~~js
+
