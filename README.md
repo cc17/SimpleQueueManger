@@ -5,7 +5,7 @@
 ### 提供两个简答的demo
 
 * demo1
-~~~js
+  ~~~js
    
    var q = new QueueManger();
 	q.queue(function(){
@@ -18,9 +18,12 @@
 		console.log('last');
 	});
    
-~~~js
+  ~~~js
+
+
 
 * demo2
+
 ~~~js
    
    var box = document.getElementById('box');
